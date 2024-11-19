@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smore\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\smore\\my project\\assets\\addrigidbodyandcollidertochildren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\addrigidbodyandcollidertochildren.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\smore\\my project\\assets\\addcomptochild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\addcomptochild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddRigidbodyAndColliderToChildren.cs",
+              "DocumentMoniker": "C:\\Users\\smore\\My project\\Assets\\AddRigidbodyAndColliderToChildren.cs",
+              "RelativeDocumentMoniker": "Assets\\AddRigidbodyAndColliderToChildren.cs",
+              "ToolTip": "C:\\Users\\smore\\My project\\Assets\\AddRigidbodyAndColliderToChildren.cs",
+              "RelativeToolTip": "Assets\\AddRigidbodyAndColliderToChildren.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:06:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCompToChild.cs",
+              "DocumentMoniker": "C:\\Users\\smore\\My project\\Assets\\AddCompToChild.cs",
+              "RelativeDocumentMoniker": "Assets\\AddCompToChild.cs",
+              "ToolTip": "C:\\Users\\smore\\My project\\Assets\\AddCompToChild.cs",
+              "RelativeToolTip": "Assets\\AddCompToChild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:53:44.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
